@@ -1,1 +1,1 @@
-ydlhero/chatgpt-web-midjourney-proxy
+ydlhero/chatgpt-web-midjourney-proxy:2.18.10
